@@ -18,10 +18,10 @@ apt upgrade -y
 pkg install git -y
 ```
 ```
-git clone https://github.com/DARK-H4CKER01/CODEX.git
+git clone https://github.com/Vishal0Hacker/CODEX
 ```
 ```
-cd CODEX/
+cd CODEX
 ```
 ```
 chmod +x *
